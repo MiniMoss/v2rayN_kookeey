@@ -1,6 +1,12 @@
 # v2rayN链式代理配置流程（kookeey）
 假设你想在 v2rayN（Windows 上的 v2ray 客户端）中配置链式代理，并使用“kookeey 代理 IP”作为前置代理。如果你说的“kookeey”是一个特定的代理服务提供商（例如提供 SOCKS5 或 HTTP 代理 IP），以下是如何实现的具体步骤。
 
+### kookeey使用教程
+https://youtu.be/m3pF26nGaBE
+
+### 👉kookeey官方粉丝福利，通过推广链接注册，购买kookeey的服务享9️⃣折优惠
+🔗推广链接：https://www.kookeey.com/register.html?aff=51395536
+
 ---
 
 ### 前提条件
